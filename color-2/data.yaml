@@ -1,0 +1,20 @@
+names:
+- Black
+- Blue
+- Brown
+- Green
+- Orange
+- Purple
+- Red
+- White
+- yellow
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: color-ua7sj-u6uwe
+  url: https://universe.roboflow.com/s-workspace-rp148/color-ua7sj-u6uwe/dataset/2
+  version: 2
+  workspace: s-workspace-rp148
+test: ../test/images
+train: ../train/images
+val: ../valid/images
